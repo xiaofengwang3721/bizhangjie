@@ -1,5 +1,5 @@
 {
-  "spider": "https://mirror.ghproxy.com/https://github.com/bizhangjie/CatVodSpider/blob/main/jar/custom_spider.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
+  "spider": "https://github.com/xiaofengwang3721/bizhangjie/raw/main/jar/custom_spider.jar;md5;8d592f6d2d1434ea5ec8506b56265485",
   "lives": [
     {
       "name": "直播ipv6",
@@ -11,14 +11,6 @@
     }
   ],
   "sites": [
-    {
-      "key": "J91",
-      "name": "\uD83D\uDD1E 91 | 珍惜",
-      "type": 3,
-      "api": "csp_J91",
-      "searchable": 1,
-      "filterable": 1
-    },
     {
       "key": "Cg51",
       "name": "\uD83D\uDD1E 51吃瓜 | 图密√",
